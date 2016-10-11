@@ -1,3 +1,22 @@
-React
-idk what I'm supposed to add
+My Project
+---
 
+Welcome.
+
+
+
+Setup
+---
+
+```
+npm install
+```
+
+
+
+Compile
+---
+
+```
+npm run compile
+```
